@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+
+This project is dead - the upstream is abandonware, and so I've forked it
+and been modernizing it in my own 
+[PackageTracker](https://github.com/alertedsnake/packagetracker) library.
+=======
 ==================================================================================
 packagetrack - Track packages
 ==================================================================================
@@ -7,9 +13,12 @@ packagetrack - Track packages
     Michael Stella (alertedsnake)
 
 :Version: 0.3
+>>>>>>> 29605e370fe71ae9a7c51ad806780791222f6911
 
-This library tracks packages.
+Go there instead!
 
+<<<<<<< HEAD
+=======
 *Note* Use at your own risk!
 
 Installation
@@ -78,3 +87,4 @@ LICENSE file for full text of the license.
 
 
 .. # vim: syntax=rst expandtab tabstop=4 shiftwidth=4 shiftround
+>>>>>>> 29605e370fe71ae9a7c51ad806780791222f6911
